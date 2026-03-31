@@ -13,7 +13,8 @@ Business Insights on Sales, Profit & Trends
 Microsoft Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query
-
+📷 Dashboard Preview
+download link: https://1drv.ms/i/c/08848B894B230ECC/IQDtCnu-KvfdSKtkJV1EZWEgAcFpXlyz6hN5vG6KKQpCq6Q?e=2VIrK4
 📥 Download Report
 👉 Download Power BI File (.pbix):
 https://drive.google.com/file/d/1s-W9XBPBV7_QIg6JBL3_QpHl8eoPTkS1/view?usp=drive_link

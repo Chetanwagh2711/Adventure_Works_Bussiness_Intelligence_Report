@@ -37,4 +37,5 @@ Improved DAX and data modeling skills
 Better understanding of dashboard design and storytelling
 
 👨‍💻 Author
-chetan s wagh
+Chetan Shriram wagh
+DY patil college of Engineering Akurdi Pune
